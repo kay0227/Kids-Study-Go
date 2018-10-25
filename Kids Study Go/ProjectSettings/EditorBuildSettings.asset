@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 4c6229b943380a84c8753e20fde69cec
+  - enabled: 1
+    path: Assets/Scenes/MainScreen.unity
+    guid: e9d709856a63c414887b8a501ef88972
+  - enabled: 1
+    path: Assets/Scenes/Scenario.unity
+    guid: 06af6d8718dfba94a9ccc6560b3bab1b
+  - enabled: 1
+    path: Assets/Scenes/mon_battle.unity
+    guid: 3b77b0cebdfd1a74f8cbe5710efa5b70
+  - enabled: 1
+    path: Assets/Scenes/Tale/TaleScene.unity
+    guid: 25cc2c9634afcbd4d9227736a410d640
+  - enabled: 1
+    path: Assets/Scenes/Collection.unity
+    guid: c5ffcb8ced454d74fb366fd62daf829b
+  - enabled: 1
+    path: Assets/Scenes/Word.unity
+    guid: 6ea0abc5c0ebc8b478edd25159cc63ea
+  - enabled: 1
+    path: Assets/Scenes/Tale/TaleScene2.unity
+    guid: 22e02d920d0428b409d85a651be1354b
+  - enabled: 1
+    path: Assets/Scenes/Tale/TaleScene4.unity
+    guid: fab3d3504eb1f454387f9e7d1cdac3b8
+  - enabled: 1
+    path: Assets/Scenes/Tale/TaleScene3.unity
+    guid: 66aba211626036e4bbd5f34f1ea16a19
+  - enabled: 1
+    path: Assets/Scenes/Tale/TaleScene5.unity
+    guid: 7d36e27d0b827cc4f87424765fff012e
+  - enabled: 1
+    path: Assets/Scenes/Tale/TaleScene6.unity
+    guid: e5785723e49e99c409a8a36ae8e34378
+  - enabled: 1
+    path: Assets/Scenes/Tale/TaleScene7.unity
+    guid: 034190c3152b73347b3b4bb800648db4
+  - enabled: 1
+    path: Assets/Scenes/Tale/TaleScene8.unity
+    guid: e1cc1b49beafbab45aca1f75015ab27c
+  - enabled: 1
+    path: Assets/Scenes/ExtraTale/ExtraScene3.unity
+    guid: aa8d8af1cb3a0ef408ca325229bf0b69
+  - enabled: 1
+    path: Assets/Scenes/ExtraTale/ExtraScene5.unity
+    guid: 24d31e0d1e6953640a1ef5e56fc1b7b3
+  - enabled: 1
+    path: Assets/Scenes/ExtraTale/ExtraScene7.unity
+    guid: 6e268adcca0dcaa4b8dbb844e43f44f1
+  - enabled: 1
+    path: Assets/Scenes/ExtraTale/ExtraScene6.unity
+    guid: 3ba20eb498f5e1b48b5e2405f1d4db32
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: c8d68b37f3d6ec043b548e90bd55138f
+  - enabled: 1
+    path: Assets/Scenes/Costurm.unity
+    guid: de9b643007d01604988bd7a42cac192c

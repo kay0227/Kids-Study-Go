@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kids Study Go_fin_sy", "Kids Study Go_fin_sy.csproj", "{5F1C6EE7-0087-A225-D69C-DB9756638404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kids Study Go_fin_sy.Editor", "Kids Study Go_fin_sy.Editor.csproj", "{9716FA26-D3E5-2FF0-2455-55DDD6397E7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F1C6EE7-0087-A225-D69C-DB9756638404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1C6EE7-0087-A225-D69C-DB9756638404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1C6EE7-0087-A225-D69C-DB9756638404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1C6EE7-0087-A225-D69C-DB9756638404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9716FA26-D3E5-2FF0-2455-55DDD6397E7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9716FA26-D3E5-2FF0-2455-55DDD6397E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9716FA26-D3E5-2FF0-2455-55DDD6397E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9716FA26-D3E5-2FF0-2455-55DDD6397E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kids Study Go", "Kids Study Go.csproj", "{2EA173ED-2FF1-740D-F539-81A8D4B5C23A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kids Study Go.Editor", "Kids Study Go.Editor.csproj", "{C204E866-36C0-C1ED-E92A-1A649A6EE843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EA173ED-2FF1-740D-F539-81A8D4B5C23A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA173ED-2FF1-740D-F539-81A8D4B5C23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA173ED-2FF1-740D-F539-81A8D4B5C23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA173ED-2FF1-740D-F539-81A8D4B5C23A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C204E866-36C0-C1ED-E92A-1A649A6EE843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C204E866-36C0-C1ED-E92A-1A649A6EE843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C204E866-36C0-C1ED-E92A-1A649A6EE843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C204E866-36C0-C1ED-E92A-1A649A6EE843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
